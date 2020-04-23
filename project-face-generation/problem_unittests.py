@@ -1,3 +1,5 @@
+## helper script for main dlnd_face_generation
+
 from unittest.mock import MagicMock, patch
 import numpy as np
 import torch
